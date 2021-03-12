@@ -1,5 +1,4 @@
 # lua-bindings环境配置
-
 1.下载[python2.7](http://www.python.org/ftp/python/2.7.3/python-2.7.3.msi)安装它并设置C:\Python27\到path环境变量中。
 
 2.安装easy_install(可选)
